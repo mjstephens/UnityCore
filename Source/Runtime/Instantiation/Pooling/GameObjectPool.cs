@@ -4,7 +4,7 @@ using UnityEngine;
 namespace UnityCore.Instantiation.Pooling
 {
     /// <summary>
-    /// 
+    /// Base class for GameObject pools. Used automatically by Instantiator.cs
     /// </summary>
     public class GameObjectPool : PoolBase
     {
